@@ -1,0 +1,9 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+.left-heading {
+	text-align:left;
+}
+.right-heading {
+	text-align:right;
+}
